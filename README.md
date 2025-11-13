@@ -6,9 +6,10 @@ Each case study summarises the problem, stack, architecture, my role & contribut
 ## Cases
 
 ### 1) Grovvic — Sustainable Gardening Web App (React + Python, AWS/Vercel)
-- **Role**: Frontend lead + UI/UX contributor; React setup & environment; Vercel deploy; core pages (plant recommendation & search, sustainability education + quiz, garden simulation); homepage & about; UI adjustments across pages.
+- **Role**: Frontend lead + UI/UX contributor; React setup & environment; Vercel deploy; core pages (plant recommendation & search + detailed guide, sustainability education + quiz, garden simulation); homepage & about; UI adjustments across pages.
 - **Stack**: React, Python API, AWS, Vercel
 - **Live**: https://netvivo-grovvic.vercel.app/
+- **Official repo (team):** https://github.com/yujie-huu/Grovvic
 - **Case page**: [./grovvic-case/README.md](./grovvic-case/README.md)
 
 ### 2) EcoFit — Climate-smart Wardrobe Android App (Kotlin + Firebase/Room/Retrofit)

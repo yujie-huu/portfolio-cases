@@ -34,10 +34,13 @@ Help home gardeners adopt climate-smart and sustainable practices with approacha
 ## Screenshots (of pages I'm in charge of)
 - ![Home](./images/homepage.png)
 - ![Search Plant By Name or Filter](./images/plant-search.png)
-- ![Plant Detailed Info](./images/plant-info-1.png)(./images/plant-info-2.png)
+- ![Plant Detailed Info](./images/plant-info-1.png)
+- ![Plant Detailed Info](./images/plant-info-2.png)
 - ![Sustainability + Quiz](./images/edu-quiz.png)
 - ![Garden Simulation](./images/simulator.png)
-- ![About] (./images/about-1.png)(./images/about-2.png)(./images/about-3.png)
+- ![About] (./images/about-1.png)
+- ![About] (./images/about-2.png)
+- ![About] (./images/about-3.png)
 
 ## Notes & Learnings
 - Fast deploys on Vercel enabled frequent demos and feedback cycles
